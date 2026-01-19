@@ -1,0 +1,2 @@
+{"timestamp": "2026-01-18 15:52:26", "event_type": "Login Success", "user": "admin", "role": "admin", "risk_score": null, "risk_level": null, "details": null}
+{"timestamp": "2026-01-18 15:52:31", "event_type": "Security Scan", "user": "admin", "role": "admin", "risk_score": 25, "risk_level": "Low Risk", "details": "Bandit: 5 issues found"}

@@ -1,0 +1,8 @@
+user: 
+id: user
+pass: user123
+
+
+admin:
+id: admin
+pass: admin123
